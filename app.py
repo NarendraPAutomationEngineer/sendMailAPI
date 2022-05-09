@@ -25,6 +25,8 @@ def sendMailWithCustomBody():
         abort(400,"Body Is Missed") 
     subject=reqBody.get("subject","Hello")
     recipient=reqBody.get("toMailId")
+    if recipient is None:
+        abort(400,"toMailid Is Missed in Body")
     msg = Message(
                 subject,
                 sender = gmailID,
