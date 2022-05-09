@@ -8,7 +8,7 @@ Step1: Clone this repo using below command <br />
 Step2: <br />
   cd sendMailAPI <br />
 Step3: <br />
-  pip3 install -r requirements.txt  <br />
+  pip install -r requirements.txt or  pip3 install -r requirements.txt<br />
 Step4:  <br />
   Update gmailID & gPass in configs.py file <br />
 Step5: <br />
