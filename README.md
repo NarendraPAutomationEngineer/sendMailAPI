@@ -1,6 +1,6 @@
 # Simple Python Flask REST API to send Mails using gmail
 
-Simple Flask REST API to send Mails
+Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries.
 
 ## How to run this code ?
 Step1: Clone this repo using below command <br />
