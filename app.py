@@ -12,6 +12,12 @@ app.config['MAIL_USE_TLS'] = False
 app.config['MAIL_USE_SSL'] = True
 mail = Mail(app)
 
+@app.errorhandler(400)
+def not_data(error):
+    response=jsonify({"Error": error.description })
+    response.status_code=400
+    return response
+
 @app.route("/mail", methods=['POST'])
 def sendMailWithCustomBody():
     reqBody=request.get_json()
