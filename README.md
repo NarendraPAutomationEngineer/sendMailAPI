@@ -12,7 +12,7 @@ Step3: <br />
 Step4:  <br />
   Update gmailID & gPass in configs.py file <br />
 Step5: <br />
-  Now open Browser then login into your gmail and them open the below link <br />
+  Now open Browser then login into your gmail and then open the below link <br />
   https://www.google.com/settings/security/lesssecureapps <br />
   Finally   enable  Allow less secure apps: ON <br />
  
