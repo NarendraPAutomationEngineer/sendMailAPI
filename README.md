@@ -3,7 +3,7 @@
 Simple Flask REST API to send Mails
 
 ## How to run this code ?
-Step1: Clone this repo using below command
+###Step1: Clone this repo using below command
    https://github.com/NarendraPAutomationEngineer/sendMailAPI.git
 Step2:
   cd sendMailAPI
