@@ -4,7 +4,7 @@ Flask is a micro web framework written in Python. It is classified as a microfra
 
 ## How to run this code ?
 Step1: Clone this repo using below command <br />
-   https://github.com/NarendraPAutomationEngineer/sendMailAPI.git <br />
+  git clone https://github.com/NarendraPAutomationEngineer/sendMailAPI.git <br />
 Step2: <br />
   cd sendMailAPI <br />
 Step3: <br />
