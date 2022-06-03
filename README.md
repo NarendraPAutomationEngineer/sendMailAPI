@@ -9,12 +9,12 @@ Step2: <br />
   cd sendMailAPI <br />
 Step3: <br />
   pip install -r requirements.txt or  pip3 install -r requirements.txt<br />
-Step4:  <br />
-  Update gmailID & gPass in configs.py file <br />
-Step5: <br />
+Step4: <br />
   Now open Browser then login into your gmail and then open the below link <br />
   https://myaccount.google.com/u/4/security?hl=en <br />
   Finally   enable  2-step verifiction by passing mobile number and then create app password<br />
+Step5:  <br />
+  Update gmailID & gPass (16 character which you get from above step) in configs.py file <br />  
 Step6: <br />
   Now run with python app.py or python3 app.py <br />
 Step7: <br />
