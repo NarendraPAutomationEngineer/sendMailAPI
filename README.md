@@ -19,7 +19,7 @@ Step6: <br />
   Now run with python app.py or python3 app.py <br />
 Step7: <br />
   open new terminal and try the below command to send mail using the api <br />
-  curl -i -X POST -H "Content-Type: application/json"   http://192.168.0.111:8080/mail -d '{"subject": "Alert! File System Usage", "toMailId": "dowithpython@gmail.com", "mailBody": "File System Usage is 85% : "}'
+  curl -i -X POST -H "Content-Type: application/json"   http://192.168.0.111:8080/mail -d '{"subject": "Alert! File System Usage", "toMailId": "dowithpython@gmail.com", "mailBody": "File System Usage is : 85%"}'
  
 ## Get Links With Coupon Codes For Udemy Course Using Below Link 
 Link ==> [Udemy Links With Coupon Codes](https://www.youtube.com/watch?v=dg6hltm8VEE&t=0s)
