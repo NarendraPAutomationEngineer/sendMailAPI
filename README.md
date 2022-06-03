@@ -13,8 +13,8 @@ Step4:  <br />
   Update gmailID & gPass in configs.py file <br />
 Step5: <br />
   Now open Browser then login into your gmail and then open the below link <br />
-  https://www.google.com/settings/security/lesssecureapps <br />
-  Finally   enable  Allow less secure apps: ON <br />
+  https://myaccount.google.com/u/4/security?hl=en <br />
+  Finally   enable  2-step verifiction by passing mobile number and then create app password<br />
 Step6: <br />
   Now run with python app.py or python3 app.py <br />
 Step7: <br />
